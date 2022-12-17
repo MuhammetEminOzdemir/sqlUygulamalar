@@ -1,3 +1,2 @@
 # sqlUygulamalar
-Sql örnek projeler
-dvdrental database bu veritabanı üzerinden işlemler yapıldı...
+TurkTelekom iş birliği ile Veri Bilimi Practıum  Patika.dev Sql dersi örnek uygulamaları
