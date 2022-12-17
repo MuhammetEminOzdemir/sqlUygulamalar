@@ -1,0 +1,2 @@
+# sqlUygulamalar
+Sql örnek projeler
