@@ -1,2 +1,3 @@
 # sqlUygulamalar
 Sql örnek projeler
+dvdrental database bu veritabanı üzerinden işlemler yapıldı...
